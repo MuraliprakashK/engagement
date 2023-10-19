@@ -9,7 +9,7 @@ function App() {
       <header className="App-header">
       
       <div className='row'>
-        <img src={eng} alt="logo" style={{width: '100%'}}/>
+        <img src={eng} alt="logo" style={{width: '99%', border: "1px solid wheat"}}/>
       </div>
         
       </header>
