@@ -7,7 +7,10 @@ function App() {
     <div className="App">
       {/* <img src={eng} alt="logo" /> */}
       <header className="App-header">
-        <img src={eng} alt="logo" />
+      
+      <div className='row'>
+        <img src={eng} alt="logo" style={{width: '100%'}}/>
+      </div>
         
       </header>
     </div>
