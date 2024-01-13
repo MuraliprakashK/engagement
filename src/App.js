@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       {/* <img src={eng} alt="logo" /> */}
       <header className="App-header">
-      
+      {/* images check */}
       <div className='row'>
         <img src={eng} alt="logo" style={{width: '99%', border: "1px solid wheat"}}/>
       </div>
